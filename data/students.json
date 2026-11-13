@@ -1,0 +1,77 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "Ade Bello",
+        "class_name": "SS1",
+        "gender": "M",
+        "dob": "2009-04-12",
+        "scores": {
+            "Mathematics": 80.0,
+            "English": 75.0,
+            "Physics": 68.0,
+            "Chemistry": 60.0,
+            "Biology": 65.0
+        },
+        "date_entered": "2026-11-11 11:36"
+    },
+    {
+        "student_id": "STU002",
+        "name": "Chioma Okafor",
+        "class_name": "SS1",
+        "gender": "F",
+        "dob": "2008-11-03",
+        "scores": {
+            "Mathematics": 90.0,
+            "English": 88.0,
+            "Physics": 85.0,
+            "Chemistry": 92.0,
+            "Biology": 79.0
+        },
+        "date_entered": "2026-11-11 11:36"
+    },
+    {
+        "student_id": "STU003",
+        "name": "Ibrahim Musa",
+        "class_name": "SS1",
+        "gender": "M",
+        "dob": "2009-01-25",
+        "scores": {
+            "Mathematics": 55.0,
+            "English": 48.0,
+            "Physics": 60.0,
+            "Chemistry": 52.0,
+            "Biology": 45.0
+        },
+        "date_entered": "2026-11-11 11:36"
+    },
+    {
+        "student_id": "STU004",
+        "name": "Funke Adeyemi",
+        "class_name": "SS1",
+        "gender": "F",
+        "dob": "2008-07-30",
+        "scores": {
+            "Mathematics": 72.0,
+            "English": 81.0,
+            "Physics": 66.0,
+            "Chemistry": 70.0,
+            "Biology": 77.0
+        },
+        "date_entered": "2026-11-11 11:36"
+    },
+    {
+        "student_id": "STU005",
+        "name": "Tunde Ogun",
+        "class_name": "SS1",
+        "gender": "M",
+        "dob": "2009-09-09",
+        "scores": {
+            "Mathematics": 40.0,
+            "English": 35.0,
+            "Physics": 50.0,
+            "Chemistry": 42.0,
+            "Biology": 38.0
+        },
+        "date_entered": "2026-11-11 11:36"
+    }
+]
